@@ -1,2 +1,6 @@
-# data-cleaning-toolkit
-Reusable utility functions for cleaning messy tabular datasets with pandas.
+# Data Cleaning Toolkit
+
+Reusable pandas utilities for common data-cleaning tasks: handling missing values, detecting outliers, normalizing column names, and more.
+
+## Status
+🚧 Work in progress.
